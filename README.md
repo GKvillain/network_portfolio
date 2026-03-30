@@ -12,15 +12,6 @@ This is my personal portfolio website built to showcase my projects, skills, and
 
 ---
 
-## Skills
-
-* HTML, CSS
-* JavaScript (Learning)
-* Java
-* Git and GitHub
-
----
-
 ## Assignments
 
 | Assignment | File                                        |
