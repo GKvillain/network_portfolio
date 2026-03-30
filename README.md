@@ -27,10 +27,10 @@ This is my personal portfolio website built to showcase my projects, skills, and
 
 | LAB   | File                     |
 | ----- | ------------------------ |
-| LAB 1 | [LAB 1](./LAB/lab-1.pdf) |
-| LAB 2 | [LAB 2](./LAB/lab-2.pdf) |
-| LAB 3 | [LAB 3](./LAB/lab-3.pdf) |
-| LAB 4 | [LAB 4](./LAB/lab-4.pdf) |
+| LAB 1 | [LAB 1](./LAB/LAB-1.pdf) |
+| LAB 2 | [LAB 2](./LAB/LAB-2.pdf) |
+| LAB 3 | [LAB 3](./LAB/LAB-3.pdf) |
+| LAB 4 | [LAB 4](./LAB/LAB-4.pdf) |
 
 ---
 
