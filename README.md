@@ -12,6 +12,15 @@ This is my personal portfolio website built to showcase my projects, skills, and
 
 ---
 
+## Cisco
+
+| Cisco   | File                     |
+| ----- | ------------------------ |
+| Certificate 1 | [Certificate 1](./Cisco/Certificate-1.pdf) |
+
+
+---
+
 ## Assignments
 
 | Assignment | File                                        |
