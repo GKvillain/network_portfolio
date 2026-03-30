@@ -43,6 +43,12 @@ This is my personal portfolio website built to showcase my projects, skills, and
 
 ---
 
+## Checkpoint exam score
+
+![SCORE](./Cisco/score.png)
+
+---
+
 ## Final Project
 
 * [View Project Files](https://drive.google.com/drive/folders/1x1ucmDRs2I9mPIob3yY6IkaQgVptOJSd)
