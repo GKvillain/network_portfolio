@@ -16,8 +16,8 @@ This is my personal portfolio website built to showcase my projects, skills, and
 
 | Cisco   | File                     |
 | ----- | ------------------------ |
-| Certificate 1 | [Certificate 1](./Cisco/Certificate-1.pdf) |
-
+| Pre1 Computer Networks | [Certificate 1](./Cisco/Certificate-1.pdf) |
+| CCNA1: Introduction to Networks | [Certificate 2](./Cisco/Certificate-2.pdf) |
 
 ---
 
